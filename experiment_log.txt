@@ -1,0 +1,21 @@
+n=  100 sorted      0.010 ms   comparisons=       99  shifts=        0
+n=  100 reverse     0.417 ms   comparisons=     4950  shifts=     4950
+n=  100 random      0.320 ms   comparisons=     2464  shifts=     2368
+n=  300 sorted      0.024 ms   comparisons=      299  shifts=        0
+n=  300 reverse     6.587 ms   comparisons=    44850  shifts=    44849
+n=  300 random      2.966 ms   comparisons=    23379  shifts=    23086
+n=  600 sorted      0.077 ms   comparisons=      599  shifts=        0
+n=  600 reverse    20.718 ms   comparisons=   179700  shifts=   179698
+n=  600 random      9.819 ms   comparisons=    86747  shifts=    86155
+n= 1000 sorted      0.226 ms   comparisons=      999  shifts=        0
+n= 1000 reverse    94.631 ms   comparisons=   499500  shifts=   499494
+n= 1000 random     28.890 ms   comparisons=   248769  shifts=   247775
+n= 2000 sorted      0.191 ms   comparisons=     1999  shifts=        0
+n= 2000 reverse   286.676 ms   comparisons=  1999000  shifts=  1998987
+n= 2000 random    140.378 ms   comparisons=   991117  shifts=   989126
+n= 5000 sorted      0.499 ms   comparisons=     4999  shifts=        0
+n= 5000 reverse  2177.369 ms   comparisons= 12497500  shifts= 12497372
+n= 5000 random   1119.068 ms   comparisons=  6214859  shifts=  6209871
+Saved results.csv and running_time.png
+
+Reverse sorted n=5000: insertion=1603.61 ms, merge=4.82 ms
